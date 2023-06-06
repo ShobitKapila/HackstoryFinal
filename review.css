@@ -1,0 +1,320 @@
+.review-inner {
+  position: absolute;
+  top: 3118px;
+  left: 0;
+  background-color: var(--color-royalblue-100);
+  width: 1728px;
+  height: 458px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-120xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.material-symbolsstar-outline-icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.material-symbolsstar-outline-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.click-to-rate {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 129px;
+  flex-shrink: 0;
+}
+.frame-parent88 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.this-is-my {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 744px;
+}
+.this-is-my-first-trip-to-nepal-wrapper {
+  width: 744px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.best-places-to1 {
+  position: relative;
+  display: inline-block;
+  width: 549px;
+}
+.best-places-to-visit-in-nepal-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kathmandu-nepal1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 201px;
+  flex-shrink: 0;
+}
+.kathmandu-nepal-wrapper {
+  width: 490px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.frame-parent90 {
+  gap: var(--gap-xl);
+  font-size: var(--font-size-23xl);
+}
+.frame-parent89,
+.frame-parent90,
+.instance-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent89 {
+  gap: var(--gap-29xl);
+  color: var(--color-black);
+}
+.instance-parent {
+  gap: var(--gap-37xl);
+}
+.frame-child39 {
+  position: relative;
+  border-radius: var(--br-5xl);
+  width: 596px;
+  height: 491px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent87 {
+  position: absolute;
+  top: 2478px;
+  left: 104px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-85xl);
+}
+.hyderabadindia {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  flex-shrink: 0;
+}
+.frame-parent91 {
+  position: absolute;
+  top: 1788px;
+  left: 98px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-85xl);
+}
+.image-11-icon {
+  position: relative;
+  border-radius: var(--br-5xl);
+  width: 596px;
+  height: 491px;
+  object-fit: cover;
+}
+.mumbai-india2 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 157px;
+  flex-shrink: 0;
+}
+.frame-parent97,
+.frame-wrapper10,
+.mumbai-india-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mumbai-india-wrapper {
+  width: 490px;
+  flex-direction: row;
+}
+.frame-parent97,
+.frame-wrapper10 {
+  flex-direction: column;
+}
+.frame-wrapper10 {
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+}
+.frame-parent97 {
+  gap: var(--gap-xl);
+}
+.india-is-a {
+  margin: 0;
+}
+.india-is-a-diverse-and-fascina-wrapper {
+  width: 744px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-black);
+}
+.frame-parent96,
+.frame-parent98,
+.image-11-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.frame-parent98,
+.image-11-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xl);
+  color: var(--color-royalblue-100);
+}
+.image-11-parent {
+  position: absolute;
+  top: 1190px;
+  left: 110px;
+  gap: var(--gap-85xl);
+  color: var(--color-dimgray);
+}
+.home2,
+.stories4 {
+  position: relative;
+  font-weight: 800;
+}
+.home2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-urbanist);
+  color: var(--color-dimgray);
+  text-align: left;
+  display: inline-block;
+}
+.stories4 {
+  display: none;
+}
+.home-parent {
+  position: absolute;
+  top: 62px;
+  left: 684px;
+  width: 438px;
+  height: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-53xl);
+}
+.akar-iconssearch6 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.login4,
+.sign-up6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+  font-family: var(--font-urbanist);
+  color: var(--color-royalblue-100);
+  text-align: left;
+  display: inline-block;
+}
+.login4 {
+  font-weight: 700;
+  color: var(--component-color-bacground);
+}
+.akar-iconssearch-parent2,
+.login-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.login-wrapper2 {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-royalblue-100);
+  width: 167px;
+  height: 61px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  justify-content: center;
+}
+.akar-iconssearch-parent2 {
+  position: absolute;
+  top: 43px;
+  left: 1144px;
+  justify-content: flex-start;
+  gap: var(--gap-24xl);
+}
+.share-your-travel1 {
+  position: absolute;
+  top: 252px;
+  left: 261px;
+  font-size: var(--font-size-61xl);
+  font-weight: 800;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 1212px;
+}
+.frame-parent99 {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 1731px;
+  height: 1032px;
+  background-image: url(./public/frame-1619@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-dimgray);
+}
+.review {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 3576px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-royalblue-100);
+  font-family: var(--font-urbanist);
+}

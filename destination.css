@@ -1,0 +1,412 @@
+.destination-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 897px;
+  object-fit: cover;
+}
+.discovering-the-wonders {
+  position: absolute;
+  top: 352px;
+  left: 258px;
+  font-size: var(--font-size-61xl);
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+  width: 1212px;
+}
+.frame-child7 {
+  width: 349px;
+}
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-urbanist);
+  color: var(--component-color-bacground);
+  text-align: left;
+  display: inline-block;
+}
+.destination2,
+.home,
+.stories1 {
+  position: relative;
+  font-weight: 800;
+}
+.destination2 {
+  cursor: pointer;
+}
+.stories1 {
+  display: none;
+}
+.destination-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-53xl);
+}
+.login1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-urbanist);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.login-container {
+  border-radius: var(--br-21xl);
+  background-color: var(--component-color-bacground);
+  width: 167px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.sign-up-group {
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.akar-iconssearch-group,
+.frame-parent17,
+.sign-up-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.akar-iconssearch-group {
+  justify-content: flex-start;
+  gap: var(--gap-24xl);
+}
+.frame-parent17 {
+  position: absolute;
+  top: 29px;
+  left: 104px;
+  width: 1521px;
+  justify-content: space-between;
+}
+.search-for-places {
+  position: relative;
+  font-weight: 500;
+}
+.akar-iconssearch3 {
+  border: 0;
+  background-color: transparent;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.search-for-places-hotels-or-r-parent {
+  border-radius: var(--br-61xl);
+  border: 1px solid var(--color-darkgray-300);
+  box-sizing: border-box;
+  width: 912px;
+  height: 78px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xl) var(--padding-27xl);
+  align-items: center;
+  justify-content: space-between;
+}
+.material-symbolskeyboard-arro-icon {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.all-types-parent {
+  border-radius: var(--br-61xl);
+  border: 1px solid var(--color-darkgray-300);
+  box-sizing: border-box;
+  width: 441px;
+  height: 78px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xl) var(--padding-27xl);
+  align-items: center;
+  justify-content: space-between;
+}
+.filter-by-type-of-place-parent,
+.frame-parent18,
+.frame-parent19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent18,
+.frame-parent19 {
+  flex-direction: row;
+  gap: var(--gap-11xl);
+  color: var(--color-black);
+}
+.frame-parent18 {
+  position: absolute;
+  top: 977px;
+  left: 104px;
+  flex-direction: column;
+  gap: var(--gap-29xl);
+  text-align: center;
+  color: var(--color-darkgray-200);
+}
+.frame-child8 {
+  position: relative;
+  width: 490px;
+  height: 452px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.india,
+.mumbai {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 490px;
+}
+.mumbai {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  font-family: var(--font-urbanist);
+  color: var(--color-black);
+  text-align: left;
+}
+.frame-parent22,
+.india-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.frame-parent22 {
+  gap: var(--gap-9xl);
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 490px;
+  height: 452px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(./public/frame19@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-9-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 628px;
+  object-fit: cover;
+}
+.image-9-wrapper {
+  position: relative;
+  width: 490px;
+  height: 452px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(./public/frame-18@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-parent21 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.delhi,
+.image-9-container {
+  position: relative;
+  width: 490px;
+}
+.delhi {
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  color: var(--color-black);
+}
+.image-9-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 452px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(./public/frame-181@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-12-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 490px;
+  height: 452px;
+  object-fit: cover;
+}
+.image-9-parent {
+  position: relative;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-black);
+  width: 490px;
+  height: 452px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent20 {
+  position: absolute;
+  top: 1345px;
+  left: 104px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  color: var(--color-dimgray);
+}
+.material-symbolskeyboard-arro-icon2 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.b {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-urbanist);
+  color: var(--component-color-bacground);
+  text-align: left;
+}
+.container,
+.wrapper {
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+}
+.wrapper {
+  cursor: pointer;
+  border: 0;
+  background-color: var(--color-royalblue-100);
+  width: 58px;
+  box-sizing: border-box;
+}
+.container {
+  border: 1px solid var(--color-dimgray);
+}
+.div1 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-urbanist);
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.frame {
+  cursor: pointer;
+  background-color: transparent;
+}
+.frame,
+.wrapper1 {
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 58px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+}
+.group-icon {
+  position: relative;
+  width: 34px;
+  height: 8px;
+}
+.group-wrapper {
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 58px;
+  height: 57px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent37 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.destination-inner,
+.material-symbolskeyboard-arro-parent {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.material-symbolskeyboard-arro-parent {
+  top: 4038px;
+  left: 586px;
+  flex-direction: row;
+  gap: var(--gap-13xl);
+  color: var(--color-dimgray);
+}
+.destination-inner {
+  top: 4343px;
+  left: 0;
+  background-color: var(--color-royalblue-100);
+  width: 1728px;
+  height: 383px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-120xl) 0;
+  box-sizing: border-box;
+}
+.destination1 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 4726px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--component-color-bacground);
+  font-family: var(--font-urbanist);
+}

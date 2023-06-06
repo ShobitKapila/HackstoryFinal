@@ -1,0 +1,191 @@
+.already-have-an,
+.sign-in-to {
+  position: relative;
+  font-weight: 500;
+}
+.already-have-an {
+  color: var(--color-black);
+}
+.sign-in-to-account-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.sign-up-wrapper {
+  border-radius: var(--br-26xl);
+  background-color: var(--color-royalblue-100);
+  width: 549px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-21xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--component-color-bacground);
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-child,
+.frame-inner {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-urbanist);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  border-bottom: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 549px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-xs);
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frame-inner {
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  gap: var(--gap-13xl);
+}
+.frame-parent1,
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-div {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 237.45px;
+  height: 2px;
+}
+.or {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 24.71px;
+  flex-shrink: 0;
+}
+.rectangle-parent {
+  width: 549px;
+  height: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.logosgoogle-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logosgoogle-icon-parent {
+  border-radius: var(--br-26xl);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 549px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-21xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.frame-div,
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.frame-div {
+  gap: var(--gap-53xl);
+}
+.emoji-waving-hand {
+  position: relative;
+  width: 43.93px;
+  height: 45px;
+}
+.hi-get-started {
+  position: relative;
+}
+.emoji-waving-hand-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.enter-the-details-to-get-find-parent {
+  gap: var(--gap-base);
+}
+.enter-the-details-to-get-find-parent,
+.frame-container,
+.frame-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-container {
+  gap: var(--gap-45xl);
+  color: var(--color-dimgray);
+}
+.frame-parent {
+  position: absolute;
+  top: 142px;
+  left: 961px;
+  gap: var(--gap-124xl);
+}
+.adobestock-335689040-preview-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 802px;
+  height: 1121px;
+  object-fit: cover;
+}
+.adobestock-335689040-preview-1-wrapper {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #000;
+  width: 802px;
+  height: 1117px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sign-up-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-up {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1313px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-royalblue-100);
+  font-family: var(--font-urbanist);
+}

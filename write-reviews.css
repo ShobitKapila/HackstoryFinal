@@ -1,0 +1,307 @@
+.write-reviews-inner {
+  position: absolute;
+  top: 2187px;
+  left: 0;
+  background-color: var(--color-royalblue-100);
+  width: 1728px;
+  height: 469px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-120xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-icon {
+  position: relative;
+  border-radius: var(--br-5xl);
+  width: 596px;
+  height: 491px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.title-of-your {
+  position: relative;
+  font-weight: 500;
+}
+.summarize-your-travel-journey-wrapper {
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 734px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+}
+.title-of-your-review-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.a-detailed-review {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 694px;
+  flex-shrink: 0;
+}
+.enter-travel-location-wrapper {
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+}
+.material-symbolsarrow-drop-do-icon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.select-one-parent {
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 352px;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-xl);
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+}
+.frame-parent12,
+.frame-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame-parent12 {
+  flex-direction: column;
+  gap: var(--gap-29xl);
+}
+.frame-child5,
+.i-certify-that {
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-child5 {
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.i-certify-that {
+  font-weight: 500;
+  display: inline-block;
+  width: 682px;
+}
+.frame-parent11,
+.frame-parent14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent14 {
+  flex-direction: row;
+  gap: 22px;
+  font-size: var(--font-size-xl);
+}
+.frame-parent11 {
+  flex-direction: column;
+  gap: var(--gap-37xl);
+}
+.submit-review {
+  position: relative;
+}
+.submit-review-wrapper {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-royalblue-100);
+  width: 271px;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: var(--component-color-bacground);
+}
+.frame-parent10,
+.frame-parent9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+}
+.frame-parent9 {
+  position: absolute;
+  top: 1363px;
+  left: 102px;
+  flex-direction: row;
+  gap: var(--gap-85xl);
+}
+.write-new-review {
+  position: relative;
+  font-weight: 600;
+}
+.icbaseline-edit-parent {
+  border-radius: var(--br-21xl);
+  border: 1px solid var(--color-royalblue-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-13xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.travelers-want-to {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-darkslategray);
+}
+.top-places-with-reviews-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.frame-parent15,
+.what-would-you-like-to-review-parent {
+  position: absolute;
+  top: 1196px;
+  left: 87px;
+  width: 1520px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--color-royalblue-100);
+}
+.what-would-you-like-to-review-parent {
+  top: 548px;
+  left: 408px;
+  border-radius: var(--br-61xl);
+  border: 1px solid var(--color-darkgray-300);
+  box-sizing: border-box;
+  width: 912px;
+  height: 78px;
+  padding: var(--padding-2xl) var(--padding-27xl);
+  text-align: center;
+  color: var(--color-darkgray-200);
+}
+.share-your-travel {
+  position: absolute;
+  top: 491px;
+  left: 258px;
+  font-size: var(--font-size-61xl);
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+  width: 1212px;
+}
+.pexels-photo-by-abhas-jaiswal {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  width: 1728px;
+  height: 1013px;
+  object-fit: cover;
+}
+.stories {
+  display: none;
+}
+.destination,
+.stories {
+  position: relative;
+  font-weight: 800;
+}
+.stories-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-53xl);
+}
+.akar-iconssearch1 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.login-wrapper {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-royalblue-100);
+  width: 167px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: var(--component-color-bacground);
+}
+.akar-iconssearch-parent,
+.sign-up-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.akar-iconssearch-parent {
+  gap: var(--gap-24xl);
+  color: var(--color-royalblue-100);
+}
+.frame-child6 {
+  width: 349px;
+}
+.frame-parent16 {
+  position: absolute;
+  top: 29px;
+  left: 104px;
+  width: 1521px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--color-dimgray);
+}
+.write-reviews {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 2656px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-urbanist);
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./active-login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:wght@500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abhaya Libre ExtraBold:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="active-login">
+      <img
+        class="pexels-photo-by-lidia-miralles"
+        alt=""
+        src="./public/pexels-photo-by-lidia-miralles@2x.png"
+      />
+
+      <div class="frame-parent38">
+        <div class="frame-parent39">
+          <div class="frame-parent40">
+            <div class="welcome-back-parent">
+              <b class="welcome-back1">Welcome Back</b>
+              <img
+                class="emoji-waving-hand2"
+                alt=""
+                src="./public/-emoji-waving-hand1.svg"
+              />
+            </div>
+            <div class="continue-with-google3">
+              Continue with Google or Enter Login Details
+            </div>
+          </div>
+          <div class="frame-parent41">
+            <div class="frame-parent42">
+              <div class="logosgoogle-icon-container">
+                <img
+                  class="logosgoogle-icon2"
+                  alt=""
+                  src="./public/logosgoogleicon1.svg"
+                />
+
+                <div class="continue-with-google4">Continue with Google</div>
+              </div>
+              <div class="rectangle-parent1">
+                <div class="frame-child15"></div>
+                <div class="or2">or</div>
+                <div class="frame-child15"></div>
+              </div>
+            </div>
+            <div class="frame-parent43">
+              <div class="frame-parent44">
+                <div class="email-address-parent">
+                  <input class="email-address1" type="text" />
+
+                  <input class="frame-child17" type="text" />
+                </div>
+                <input class="frame-child18" type="text" />
+              </div>
+              <div class="frame-parent45">
+                <div class="rectangle-parent2">
+                  <div class="frame-child19"></div>
+                  <div class="continue-with-google4">Remember me</div>
+                </div>
+                <button class="forget-password1" id="forgetPassword">
+                  Forget Password
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-parent46">
+          <button class="log-in-container" id="frameButton">
+            <b class="log-in1">Log In</b>
+          </button>
+          <div class="dont-have-an-account-yet-parent">
+            <div class="continue-with-google4">Don’t have an account yet?</div>
+            <button class="create-account1" autofocus id="createAccount">
+              Create account
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var forgetPassword = document.getElementById("forgetPassword");
+      if (forgetPassword) {
+        forgetPassword.addEventListener("click", function (e) {
+          window.location.href = "./forgot-password.html";
+        });
+      }
+      
+      var frameButton = document.getElementById("frameButton");
+      if (frameButton) {
+        frameButton.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var createAccount = document.getElementById("createAccount");
+      if (createAccount) {
+        createAccount.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+      </script>
+  </body>
+</html>

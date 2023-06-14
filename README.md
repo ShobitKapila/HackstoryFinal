@@ -1,5 +1,5 @@
 
-  # xyz
+  # This is the frontend for the basic web app of a tourism department 
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
